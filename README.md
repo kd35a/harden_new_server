@@ -4,10 +4,13 @@ make your server totally secure, but just hardening it so it isn't an open
 playground for anyone.
 
 ## Goal
-Automate what Spenser Jones describes in his [blog post][spenserj], and other
+Automate what people recommend in the blogposts listed below, and other
 good recommendations on what should be done to have a somewhat secure system.
 Automate what is possible, to lower the bar for a secure server, and make it
 repeatable.
+
+* [spenserj][spenserj]
+* [plusbryan][plusbryan]
 
 ## What it does
 * updates your system
@@ -26,3 +29,4 @@ repeatable.
 [unattended-upgrades]: https://help.ubuntu.com/community/AutomaticSecurityUpdates#Using_the_.22unattended-upgrades.22_package
 [spenserj]: http://spenserj.com/blog/2013/07/15/securing-a-linux-server/
 [portknock]: https://digitalocean.com/community/articles/how-to-configure-port-knocking-using-only-iptables-on-an-ubuntu-vps
+[plusbryan]: http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
